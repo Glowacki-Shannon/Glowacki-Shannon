@@ -34,6 +34,6 @@ Cybersecurity is a collective effort, and I welcome contributions from fellow en
 
 Please use the information here responsibly and ethically. My goal is to protect, not exploit. Security is about building trust and safeguarding ALL of our information.
 
-So, join me on this journey to strengthen the digital fortress. Together, we'll make the online world a safer place, one line of code at a time. 🌐🔒🚀
+So, join me on this journey to strengthen the digital fortress. Together, we'll make the online world a safer place. 🌐🔒🚀
 
 > "In the world of cybersecurity, there are no secrets—only layers of protection waiting to be uncovered." 🛡️🔓
