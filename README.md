@@ -6,7 +6,7 @@ Welcome to my corner of the cybersecurity realm! I'm a passionate Security Analy
 
 - **Handle:** Mephistopplz
 - **Certifications:** CompTIA Security+ | CCNA
-- **Location:** Navigating the ever-shifting sands of cyberspace (Melbourne)
+- **Location:** Navigating the ever-shifting sands of cyberspace | Melbourne
 - **Mission:** Making the digital world a safer place, one vulnerability at a time
 
 ## My Expertise
