@@ -11,7 +11,7 @@ Welcome to my corner of the cybersecurity realm! I'm a passionate Security Analy
 
 ## My Expertise
 
-- **Security Analyst 🔒🕵️‍♂️📊:** I decipher the cryptic messages left by hackers and turn them into actionable insights.
+- **Security Analyst 🔒🕵️‍♂️📊:** Analyzing digital security in order to find actionable insights.
 - **Threat Hunter🕵🏼‍♂️🌐:** Seeking out vulnerabilities before they can be exploited.
 - **Incident Responder 🚑:** The first line of defence when digital chaos ensues.
 - **Compliance Maven ✅:** Ensuring systems align with industry standards and regulations.
