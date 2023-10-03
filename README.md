@@ -1,6 +1,6 @@
 # Glowacki-Shannon - Security Analyst
 
-Welcome to my corner of the cybersecurity realm! I'm a passionate Security Analyst with a focus on securing digital landscapes. If you're here, you're probably on a quest for knowledge and better ways to protect the digital world. You've come to the right place!
+Yo! I'm a passionate Security Analyst with a focus on securing digital landscapes. If you're here, you're likely on a quest for knowledge and better ways to protect yourself in the digital world. You've come to the right place!
 
 ## About Me
 
