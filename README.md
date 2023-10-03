@@ -17,14 +17,15 @@ Welcome to my corner of the cybersecurity realm! I'm a passionate Security Analy
 - **Compliance Maven ✅:** Ensuring systems align with industry standards and regulations.
 - **Problem Solver 🧩:** Transforming security puzzles into secure solutions.
 
-## What Awaits You
+## My Cybersecurity Portfolio
 
 In this repository, you'll find a treasure trove of cybersecurity resources, including:
 
-- **Guides and Tutorials 📚:** Informative guides to help you navigate the ever-evolving world of cybersecurity.
+- **YouTube Tutorials 📺:** Informative guides to help you navigate the ever-evolving world of cybersecurity.
 - **Security Tools 🧰:** A curated collection of tools and scripts to bolster your digital defence.
-- **Incident Reports 📊:** Real-world examples of security incidents and the strategies used to mitigate them.
-- **Research Insights 💡:** Exploration of emerging security trends and technologies.
+- **Incident Reports 📊:** A collection of sourced real-world examples of security incidents and the strategies used to mitigate them.
+- **Projects 💡:** Exploration of emerging security trends and technologies.
+- **Books 📖:** A collection of books I have read that pertain to Blue Teaming and Red Teaming engagements.
 
 ## Contributions Welcome
 
