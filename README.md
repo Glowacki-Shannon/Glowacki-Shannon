@@ -9,7 +9,7 @@ Yo! I'm a passionate Security Analyst with a focus on securing digital landscape
 - **Location:** Navigating the ever-shifting sands of cyberspace - Melbourne
 - **Mission:** To continuously advance my knowledge and proficiency as a security analyst through daily learning and professional development.
 
-## My Expertise
+## My Skillset
 
 - **Security Analyst 🔒🕵️‍♂️📊:** Analyzing digital security in order to find actionable insights.
 - **Threat Hunter🕵🏼‍♂️🌐:** Seeking out vulnerabilities before they can be exploited.
