@@ -21,7 +21,7 @@ Yo! I'm a passionate Security Analyst with a focus on securing digital landscape
 
 In this repository, you'll find a treasure trove of cybersecurity resources, including:
 
-- **YouTube Tutorials 📺:** Informative guides to help you navigate the ever-evolving world of cybersecurity. (**Coming soon**)
+- **YouTube Tutorials 📺:** Informative guides to help you navigate the ever-evolving world of cybersecurity. **Coming soon**
 - **Security Tools 🧰:** A curated collection of tools and scripts to bolster your digital defence.
 - **Incident Reports 📊:** A collection of sourced real-world examples of security incidents and the strategies used to mitigate them.
 - **Projects 💡:** Exploration of emerging security trends and technologies.
