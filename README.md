@@ -5,7 +5,7 @@ Yo! I'm a passionate Security Analyst with a focus on securing digital landscape
 ## About Me
 
 - **Handle:** Mephistopplz
-- **Certifications:** [CompTIA Security+](https://www.credly.com/badges/0763735c-eae2-401b-a717-b1476a43322b/public_url) | CompTIA CySA+ (anticipated completion: Dec 2023) | CCNA (anticipated completion: Dec 2023)
+- **Certifications:** [CompTIA Security+](https://www.credly.com/badges/0763735c-eae2-401b-a717-b1476a43322b/public_url) | CompTIA CySA+ (anticipated: Dec 2023) | CCNA (anticipated: Dec 2023)
 - **Location:** Navigating the ever-shifting sands of cyberspace - Melbourne
 - **Mission:** To continuously advance my knowledge and proficiency as a security analyst through daily learning and professional development.
 
