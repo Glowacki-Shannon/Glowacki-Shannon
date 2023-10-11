@@ -23,7 +23,7 @@ In this repository, you'll find a treasure trove of cybersecurity resources, inc
 
 - **YouTube Tutorials 📺:** Informative guides to help you navigate the ever-evolving world of cybersecurity. **Coming soon!!**
 - **Security Tools 🧰:** A curated collection of tools and scripts to bolster your digital defence.
-- **Incident Reports 📊:** A collection of sourced/indexed real-world examples of security incidents.
+- [**Incident Reports 📊: A collection of sourced/indexed real-world examples of security incidents.**](https://github.com/Glowacki-Shannon/Incident_Reports)
 - [**Projects 💡: Exploration of emerging security trends and technologies.**](https://github.com/Glowacki-Shannon/Cybersecurity_Projects) **In progress**
 - **Books 📖:** A collection of books I have read that pertain to Blue Teaming and Red Teaming engagements.
 
