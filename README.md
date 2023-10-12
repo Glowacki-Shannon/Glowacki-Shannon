@@ -1,6 +1,6 @@
 # Glowacki-Shannon - Security Analyst
 
-Yo! I'm a passionate Security Analyst with a focus on securing digital landscapes. If you're here, you're likely a prospective employer looking to find out a little more about me. You've come to the right place!
+I'm a passionate Security Analyst with a focus on securing digital landscapes. If you're here, you're likely a prospective employer looking to find out a little more about me. You've come to the right place!
 
 ## About Me
 
