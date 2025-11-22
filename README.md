@@ -4,7 +4,6 @@ I'm a passionate Security Analyst with a focus on securing digital landscapes. I
 
 ## About Me
 
-- **Handle:** Mephistopplz
 - **Certifications:** [CompTIA Security+](https://www.credly.com/badges/0763735c-eae2-401b-a717-b1476a43322b/public_url) | CompTIA CySA+ (anticipated) | CCNA (anticipated)
 - **Mission:** To continuously advance my knowledge and proficiency as a security analyst through daily learning and professional development.
 
