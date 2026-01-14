@@ -1,6 +1,6 @@
-# Glowacki-Shannon - Security Analyst
+# - Security Analyst
 
-I'm a passionate Security Analyst with a focus on securing digital landscapes. If you're here, you're likely a prospective employer looking to find out a little more about me. You've come to the right place!
+I'm a passionate Security Analyst focused on securing digital landscapes. If you're here, you're likely a prospective employer looking to find out a little more about me. You've come to the right place!
 
 ## About Me
 
@@ -11,9 +11,9 @@ I'm a passionate Security Analyst with a focus on securing digital landscapes. I
 
 1. Core Security Concepts
 	•	Confidentiality, Integrity, Availability (CIA Triad) — definitions, use-cases, trade-offs
-	•	Non-repudiation, Authentication, Authorization, Accounting (AAA)
+	•	Non-repudiation, Authentication, Authorisation, Accounting (AAA)
 	•	Zero Trust Architecture — continuous verification, least privilege
-	•	Defense-in-Depth — layered security strategies
+	•	Defence-in-Depth — layered security strategies
 
 2. Network Security & Architecture
 	•	Network Devices — routers, switches, firewalls, Network Address Translation (NAT) devices
@@ -37,7 +37,7 @@ I'm a passionate Security Analyst with a focus on securing digital landscapes. I
 	•	Default credentials
 	•	Weak encryption
 	•	Threat Actors
-	•	Nation-state, hacktivists, insiders, organized crime
+	•	Nation-state, hacktivists, insiders, organised crime
 
 4. Identity, Access & Authentication
 	•	Authentication Methods
@@ -80,7 +80,7 @@ I'm a passionate Security Analyst with a focus on securing digital landscapes. I
 	•	Qualitative vs quantitative
 	•	Likelihood, impact, risk treatments (avoid, mitigate, transfer, accept)
 	•	Policies
-	•	Acceptable use, data classification, incident response, change management
+	•	Acceptable use, data classification, incident response, and change management
 	•	Business Continuity
 	•	Recovery Time Objective (RTO), Recovery Point Objective (RPO)
 	•	Disaster recovery plans
@@ -111,7 +111,7 @@ I'm a passionate Security Analyst with a focus on securing digital landscapes. I
 	•	Indicators of Compromise (IOCs)
 	•	Hashes, IPs, domains, signatures
 
-10. Physical, Personnel & Organizational Security
+10. Physical, Personnel & Organisational Security
 	•	Physical controls (badges, CCTV, mantraps)
 	•	Environmental controls (HVAC, fire suppression)
 	•	Social engineering prevention
