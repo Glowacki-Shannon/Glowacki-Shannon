@@ -125,7 +125,6 @@ In this repository, you'll find a treasure trove of cybersecurity resources, inc
 
 - **YouTube Tutorials 📺:** Informative guides to help you navigate the ever-evolving world of cybersecurity. **Coming soon!!**
 - **Security Tools 🧰:** A curated collection of tools and scripts to bolster your digital defence.
-- [**Projects 💡: Exploration of emerging security trends and technologies.**](https://github.com/Glowacki-Shannon/Cybersecurity_Projects)
 
 ## Contributions Welcome
 
