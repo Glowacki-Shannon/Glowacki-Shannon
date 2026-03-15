@@ -1,10 +1,10 @@
-# - Security Analyst
+# - Cybersecurity Student
 
 I'm a passionate Security Analyst focused on securing digital landscapes. If you're here, you're likely a prospective employer looking to find out a little more about me. You've come to the right place!
 
 ## About Me
 
-- **Certifications:** [CompTIA Security+](https://www.credly.com/badges/0763735c-eae2-401b-a717-b1476a43322b/public_url) | CompTIA CySA+ (anticipated) | CCNA (anticipated)
+- **Certifications:** [CompTIA Security+](https://www.credly.com/badges/0763735c-eae2-401b-a717-b1476a43322b/public_url) | CompTIA CySA+ (anticipated) | CCNA (In Progress)
 - **Mission:** To continuously advance my knowledge and proficiency as a security analyst through daily learning and professional development.
 
 ## Security+ Skill Set Breakdown (Practical + Conceptual)
